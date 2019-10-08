@@ -1,0 +1,8 @@
+const  types = { 
+    FETCH_CONTACTS : "FETCH_CONTACTS",
+    FETCH_CONTACT : "FETCH_CONTACT",
+    DELETE_CONTACT: "DELETE_CONTACT",
+    EDIT_CONTACT: "EDIT_CONTACT"
+    
+};
+export default types;

@@ -2,7 +2,7 @@
   "name": "mister-bitcoin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ranAlbagli/mister-bitcoin.git",
+  "homepage": "https://ranAlbagli.github.io/mister-bitcoin",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.1.1",

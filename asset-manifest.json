@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ranAlbagli/mister-bitcoin.git/static/css/main.8afd5e83.chunk.css",
+    "main.js": "/ranAlbagli/mister-bitcoin.git/static/js/main.3400b582.chunk.js",
+    "main.js.map": "/ranAlbagli/mister-bitcoin.git/static/js/main.3400b582.chunk.js.map",
+    "runtime-main.js": "/ranAlbagli/mister-bitcoin.git/static/js/runtime-main.88816073.js",
+    "runtime-main.js.map": "/ranAlbagli/mister-bitcoin.git/static/js/runtime-main.88816073.js.map",
+    "static/css/2.5a2f7233.chunk.css": "/ranAlbagli/mister-bitcoin.git/static/css/2.5a2f7233.chunk.css",
+    "static/js/2.7d90e54c.chunk.js": "/ranAlbagli/mister-bitcoin.git/static/js/2.7d90e54c.chunk.js",
+    "static/js/2.7d90e54c.chunk.js.map": "/ranAlbagli/mister-bitcoin.git/static/js/2.7d90e54c.chunk.js.map",
+    "index.html": "/ranAlbagli/mister-bitcoin.git/index.html",
+    "precache-manifest.8feff1cdebbe00618afc2ba3288d8330.js": "/ranAlbagli/mister-bitcoin.git/precache-manifest.8feff1cdebbe00618afc2ba3288d8330.js",
+    "service-worker.js": "/ranAlbagli/mister-bitcoin.git/service-worker.js",
+    "static/css/2.5a2f7233.chunk.css.map": "/ranAlbagli/mister-bitcoin.git/static/css/2.5a2f7233.chunk.css.map",
+    "static/css/main.8afd5e83.chunk.css.map": "/ranAlbagli/mister-bitcoin.git/static/css/main.8afd5e83.chunk.css.map",
+    "static/media/logo.1d898d9f.svg": "/ranAlbagli/mister-bitcoin.git/static/media/logo.1d898d9f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88816073.js",
+    "static/css/2.5a2f7233.chunk.css",
+    "static/js/2.7d90e54c.chunk.js",
+    "static/css/main.8afd5e83.chunk.css",
+    "static/js/main.3400b582.chunk.js"
+  ]
+}
